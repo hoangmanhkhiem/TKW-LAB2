@@ -1,0 +1,60 @@
+h2 {
+    color: #19418CFF;
+    background-color: #83C1F3FF;
+}
+
+.blue_text {
+    color: #5B9DF5FF;
+}
+
+table, td, th {
+    border: 2px solid;
+    border-collapse: collapse;
+    padding: 5px;
+}
+
+tr:nth-child(odd) {
+    background-color: #DDDDDDFF;
+}
+
+.darkBlueText {
+    color: #0059FFFF;
+}
+
+.lightBlueText {
+    color: #59A5E2FF;
+}
+
+.concho{
+    display: flex;
+    position: absolute;
+    right: 0;
+    z-index: 0;
+}
+
+.text1{
+    font-weight: bold;
+    text-align: center;
+}
+
+.hcii{
+    font-family: "AlphaMack AOE", monospace;
+}
+
+.text2{
+    font-family: AGOldFace-Outline, "Mongolian Baiti", monospace;
+}
+
+.cou{
+    padding-right: 30px;
+    padding-left: 30px;
+}
+
+.bang1{
+    background-color: white;
+}
+
+.cre{
+    font-weight: bold;
+    text-align: center;
+}
